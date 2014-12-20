@@ -1,0 +1,11 @@
+{
+    "name": "{vendor}/{skeleton}-module",
+    "keywords": [
+        "BEAR.Sunday-Module"
+    ],
+    "description": "BEAR.Sunday {Skeleton} module",
+    "license": "BSD-3-Clause",
+    "require": {
+        "ray/di": "~1.0@dev"
+    }
+}
